@@ -31,7 +31,7 @@ Include the neural network model diagram.
 
 ##7: We compile the model to fit the train sets and validation sets.
 
-Write your own steps
+
 
 ## PROGRAM
 '''
